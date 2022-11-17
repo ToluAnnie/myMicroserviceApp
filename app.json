@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "myMicroServiceApp",
+    "slug": "myMicroServiceApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "myMicroServiceApp"
+}
