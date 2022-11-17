@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687195686887",
+    "project_id": "my-microservice-app-d3758",
+    "storage_bucket": "my-microservice-app-d3758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687195686887:android:4ceedd9c2bc6262049df42",
+        "android_client_info": {
+          "package_name": "com.mymicroserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687195686887-5str7pf0se6lipeakcst3j6jutb0ben5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jw1odfEKwgPY1huyRWOGl3D5_se1-8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687195686887-5str7pf0se6lipeakcst3j6jutb0ben5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
